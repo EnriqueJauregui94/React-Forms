@@ -1,0 +1,9 @@
+.authenticate-container {
+    border: 5px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 20px auto;
+    max-width: 400px;
+    /* Adjust the width as needed */
+}
